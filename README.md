@@ -1,8 +1,8 @@
-﻿# Angular Backend
+# Angular Backend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 
-> RepositÃ³rio do projeto **Angular Backend**.
+> Repositório do projeto **Angular Backend**.
 
 ## Tecnologias
 
@@ -10,11 +10,11 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - Node.js 18+ e npm
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/angular-backend.git
@@ -22,7 +22,7 @@ cd angular-backend
 npm install
 ```
 
-### ExecuÃ§Ã£o
+### Execução
 
 ```bash
 npm start
@@ -85,10 +85,10 @@ angular-backend/
 └── tsconfig.json
 ```
 
-## ContribuiÃ§Ã£o
+## Contribuição
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
